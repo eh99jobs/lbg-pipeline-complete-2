@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid dark green(25, 238, 6);
+  border: 3px blue(25, 238, 6);
   padding: 10px;
 }
 
